@@ -12,6 +12,8 @@ I am currently a M.S. in Electrical and Computer Engineering student at [Boston 
 
 Prior to BU, I worked as an algorithm engineer for an autonomous driving start up. And before that, I got my bachelor's degree from [The University of Hong Kong](https://www.hku.hk), where I majored in Decision Analytics (combination of statistics and computer science), and minored in Mathematics.
 
+
+
 ## Research
 
 <table style="border: none; border-collapse: collapse;" border="0">
@@ -34,5 +36,7 @@ Prior to BU, I worked as an algorithm engineer for an autonomous driving start u
 </td>
 </tr>  
   
-  
 </table>
+
+<!--End of Research table-->
+
