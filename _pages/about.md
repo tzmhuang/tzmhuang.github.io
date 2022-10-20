@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a M.S. in Electrical and Computer Engineering student at Boston University, working with [Prof. Eshed Ohn-Bar](https://eshed1.github.io) on computer vision, robotics and machine learning with their applications in autonomous and assistive systems.
+I am currently a M.S. in Electrical and Computer Engineering student at [Boston University](https://www.bu.edu), working with [Prof. Eshed Ohn-Bar](https://eshed1.github.io) on computer vision, robotics and machine learning with their applications in autonomous and assistive systems.
 
-Prior to BU, I worked as an algorithm engineer for an autonomous driving start up. And before that, I got my bachelor's degree from The University of Hong Kong, where I majored in Decision Analytics (combination of statistics and computer science), and minored in Mathematics.
+Prior to BU, I worked as an algorithm engineer for an autonomous driving start up. And before that, I got my bachelor's degree from [The University of Hong Kong](https://www.hku.hk), where I majored in Decision Analytics (combination of statistics and computer science), and minored in Mathematics.
 
 ## Research
 
