@@ -26,6 +26,7 @@ Prior to BU, I worked as an algorithm engineer for an autonomous driving start u
 <br>
 <b>Zanming Huang</b>*, Zhongkai Shangguan*, Jimuyang Zhang, Gilad Bar, Matthew Boyd, Eshed Ohn-Bar 
 
+
 <i>European Conference on Computer Vision (ECCV)</i>, 2022
 <br>
 <span><a href="https://eshed1.github.io/papers/assister_eccv2022.pdf">[Paper]</a></span> |
