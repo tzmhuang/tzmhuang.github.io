@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zanming Huang"
 title_separator          : "-"
 name                     : &name "Zanming Huang"
-description              : &description "AI/ML, Robotics, Computer Vision"
+description              : &description "MS in Electrical and Computer Engineering"
 url                      : https://tzmhuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tzmhuang/tzmhuang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zanming Huang"
   avatar           : "profile_pic.jpg"
-  bio              : "M.S. ECE"
+  bio              : "MS in Electrical and Computer Engineering \n AI/ML, Robotics, Computer Vision"
   location         : "Boston, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
