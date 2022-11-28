@@ -36,6 +36,6 @@ author_profile: true
 
 ## Patents
 
-1. **"Obstacle Processing Method and Device and Traveling Equipment"**, Chinese Patent, Filed on Apr. 09 2021 (Application No. CN202110381578.6A), Issued on Oct. 14 2022 (Patent No.CN113022593B)
-2. **"Formation Vehicle Driving Method and Device, Computer Equipment and Storage Medium"**, Chinese Patent, Filed on Aug. 13 2020 (Application No. CN202010812105.2A), *Patent Pending*
-3. **"Control Method, Device, Equipment and Storage Medium for Formation Vehicles"**, Chinese Patent, Filed on Dec. 02 2020 (Application No. CN202011392833.9A), *Patent Pending*
+- **"Obstacle Processing Method and Device and Traveling Equipment"**, Chinese Patent, Filed on Apr. 09 2021 (Application No. CN202110381578.6A), Issued on Oct. 14 2022 (Patent No.CN113022593B)
+- **"Formation Vehicle Driving Method and Device, Computer Equipment and Storage Medium"**, Chinese Patent, Filed on Aug. 13 2020 (Application No. CN202010812105.2A), *Patent Pending*
+- **"Control Method, Device, Equipment and Storage Medium for Formation Vehicles"**, Chinese Patent, Filed on Dec. 02 2020 (Application No. CN202011392833.9A), *Patent Pending*
