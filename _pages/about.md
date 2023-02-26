@@ -32,8 +32,7 @@ Jimuyang Zhang, <b>Zanming Huang</b>, Eshed Ohn-Bar
 
 <i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2023
 <br>
-<span><a href="https://eshed1.github.io/papers/assister_eccv2022.pdf">[Paper]</a></span> |
-<span><a href="https://github.com/h2xlab/ASSISTER">[Github]</a></span>
+
 </td>
 </tr> 
 
