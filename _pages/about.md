@@ -16,7 +16,29 @@ Prior to BU, I worked as an algorithm engineer for an autonomous driving start u
 ## Research
 
 <table style="border: none; border-collapse: collapse;" border="0">
+
+<!--CAT-->
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="../images/cat.png" width="400"/> </td>
   
+ 
+<td style="border-collapse: collapse; border: none;">
+<b>Coaching a Teachable Student to Drive</b>
+(Under Review)
+<br>
+Jimuyang Zhang, <b>Zanming Huang</b>, Eshed Ohn-Bar 
+
+<i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2023
+<br>
+<span><a href="https://eshed1.github.io/papers/assister_eccv2022.pdf">[Paper]</a></span> |
+<span><a href="https://github.com/h2xlab/ASSISTER">[Github]</a></span>
+</td>
+</tr> 
+
+<!--ASSISTER-->
+
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
 <img src="../images/assister.png" width="400"/> </td>

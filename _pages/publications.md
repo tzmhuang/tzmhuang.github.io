@@ -14,6 +14,7 @@ author_profile: true
 
 <table style="border: none; border-collapse: collapse;" border="0">
 
+<!--CAT-->
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
@@ -32,6 +33,8 @@ Jimuyang Zhang, <b>Zanming Huang</b>, Eshed Ohn-Bar
 <span><a href="https://github.com/h2xlab/ASSISTER">[Github]</a></span>
 </td>
 </tr> 
+
+<!--ASSISTER-->
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
