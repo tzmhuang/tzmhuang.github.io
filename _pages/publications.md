@@ -25,7 +25,7 @@ author_profile: true
 <b>Coaching a Teachable Student to Drive</b>
 <br>
 Jimuyang Zhang, <b>Zanming Huang</b>, Eshed Ohn-Bar 
-
+<br>
 <i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2023
 <br>
 
@@ -43,8 +43,7 @@ Jimuyang Zhang, <b>Zanming Huang</b>, Eshed Ohn-Bar
 <b>ASSISTER: Assistive Navigation via Conditional Instruction Generation</b>
 <br>
 <b>Zanming Huang</b>*, Zhongkai Shangguan*, Jimuyang Zhang, Gilad Bar, Matthew Boyd, Eshed Ohn-Bar 
-
-
+<br>
 <i>European Conference on Computer Vision (ECCV)</i>, 2022
 <br>
 <span><a href="https://eshed1.github.io/papers/assister_eccv2022.pdf">[Paper]</a></span> |
