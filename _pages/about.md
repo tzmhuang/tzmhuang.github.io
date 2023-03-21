@@ -31,7 +31,8 @@ Jimuyang Zhang, <b>Zanming Huang</b>, Eshed Ohn-Bar
 <br>
 <i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2023
 <br>
-
+<p style="color:maroon;"><b>Highlight</b></p>
+<br>
 </td>
 </tr> 
 
