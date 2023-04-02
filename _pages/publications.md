@@ -22,7 +22,7 @@ author_profile: true
   
  
 <td style="border-collapse: collapse; border: none;">
-<b>Coaching a Teachable Student to Drive</b>
+<b>Coaching a Teachable Student</b>
 <br>
 Jimuyang Zhang, <b>Zanming Huang</b>, Eshed Ohn-Bar 
 <br>
