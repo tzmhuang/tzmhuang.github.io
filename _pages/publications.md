@@ -29,6 +29,7 @@ Jimuyang Zhang, <b>Zanming Huang</b>, Eshed Ohn-Bar
 <i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2023
 <br>
 <p style="color:salmon;"><b>Highlight presentation (~top 2.5% of submitted papers)</b></p>
+<span><a href="https://catdrive.github.io">[Project]</a></span>
 <br>
 
 </td>
