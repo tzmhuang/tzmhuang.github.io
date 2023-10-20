@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here](../files/Resume-Zanming%20Huang%20(2023%20JUN).pdf) (last updated: FEB, 2023).
+You can find my CV [here](../files/Resume-Zanming%20Huang%20(2023%20JUN).pdf) (last updated: JUN, 2023).
