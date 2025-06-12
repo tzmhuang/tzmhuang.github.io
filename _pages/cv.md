@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here](../files/resume_ZanmingHuang.pdf) (last updated: Jul, 2024).
+TBD
+<!-- You can find my CV [here](../files/resume_ZanmingHuang.pdf) (last updated: Jul, 2024). -->
