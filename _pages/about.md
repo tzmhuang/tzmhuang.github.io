@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD Student from the Department of Computer Science and Engineering at [The Ohio State Univerisity](https://cse.osu.edu/), advised by [Prof. Yu Su](https://ysu1989.github.io/) and [Prof. Wei-lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao/home). I completed my M.S. in Electrical and Computer Engineering at [Boston University](https://www.bu.edu), working with [Prof. Eshed Ohn-Bar](https://eshed1.github.io) on computer vision, robotics and machine learning with their applications in autonomous systems. I obtained my BSc from [The University of Hong Kong](https://www.hku.hk), where I majored in Decision Analytics.
+I am a PhD Student from the Department of Computer Science and Engineering at [The Ohio State Univerisity](https://cse.osu.edu/), advised by [Prof. Yu Su](https://ysu1989.github.io/) and [Prof. Wei-lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao/home). I completed my M.S. in Electrical and Computer Engineering at [Boston University](https://www.bu.edu), working with [Prof. Eshed Ohn-Bar](https://eshed1.github.io) on computer vision, robotics and machine learning with their applications in autonomous systems. I obtained my BSc from [The University of Hong Kong](https://www.hku.hk), where I majored in Decision Analytics.
 
 
 ## Research
