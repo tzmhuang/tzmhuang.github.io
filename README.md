@@ -1,1 +1,5 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+# Zanming Huang's Academic Website
+
+Source code for my personal academic website: https://tzmhuang.github.io/
+
+Built with HTML and CSS.
