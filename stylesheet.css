@@ -156,7 +156,7 @@ h2 {
 /* Responsive layout - stacks when viewport is narrow */
 @media screen and (max-width: 580px) {
   body {
-    padding: 0 10px;
+    padding: 0 0px;
   }
 
   table {
