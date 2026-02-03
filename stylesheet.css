@@ -198,3 +198,62 @@ h2 {
   font-size: 30px;
 }
 
+/* Bio section table cell styling */
+.bio-content {
+  padding: 2.5%;
+  width: 77%;
+  vertical-align: middle;
+  background-color: #ffffff;
+}
+
+.bio-image-container {
+  padding: 1%;
+  width: 23%;
+  max-width: 23%;
+}
+
+/* Profile image styling */
+.bio-section img {
+  width: 100%;
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+/* Responsive layout - stacks when viewport is narrow */
+@media screen and (max-width: 680px) {
+  .bio-section tbody,
+  .bio-section tr {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .bio-content,
+  .bio-image-container {
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+  }
+
+  /* Image appears first and left-aligned */
+  .bio-image-container {
+    order: -1;
+    padding: 2.5% 2.5% 5% 2.5%;
+  }
+
+  .bio-section img {
+    width: 30%;
+    max-width: 180px;
+    margin: 0 auto;
+    display: block;
+  }
+
+  /* Content section */
+  .bio-content {
+    padding: 2.5%;
+  }
+
+  .name {
+    font-size: 26px;
+  }
+}
+
