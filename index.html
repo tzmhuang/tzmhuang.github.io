@@ -29,39 +29,6 @@
     
 
 
-    <!-- Paper link pill buttons -->
-    <style>
-      .paper-links {
-        margin-top: 4px;
-      }
-
-      .paper-badge {
-        display: inline-flex;
-        align-items: center;
-        gap: 4px;
-        padding: 2px 7px;
-        margin-right: 5px;
-        margin-top: 3px;
-        border-radius: 5px;
-        border: 1px solid #ffffff;
-        font-size: 11px;
-        text-decoration: none;
-        color: #ffffff;
-        background-color: #ffffff;
-        transition: background-color 0.15s ease, color 0.15s ease;
-      }
-
-      .paper-badge i {
-        font-size: 11px;
-        color: #ffffff;
-      }
-
-      .paper-badge:hover {
-        background-color: #ffffff;
-        color: #444;
-      }
-    </style>
-
   <body>
 
     <!-- add spacing -->
@@ -76,10 +43,6 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;background-color: #ffffff;margin-bottom: 8px;">
           <tbody>
             <tr style="padding:0px">
-            <td style="padding:1%;width:30%;max-width:30%">
-              <a href="images/zm.jpg"><img class="tilt" style="width:100%;max-width:100%;" alt="profile photo" src="images/zm.jpg"></a>
-            </td>
-              
             <td style="padding:2.5%;width:77%;vertical-align:middle;background-color: #ffffff">
                 <p class="name" style="text-align: left;">
                   Zanming Huang
@@ -88,67 +51,48 @@
               <md-block style="text-align: left">
                 I am a PhD Student at [The Ohio State Univerisity](https://cse.osu.edu/), advised by [Prof. Wei-lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao/home). I had the previledge to work with [Prof. Yu Su](https://ysu1989.github.io/) as well as [Prof. Eshed Ohn-Bar](https://eshed1.github.io).
 
-                <br>
                 My research focuses on enabling intelligent systems to perceive, reason, and plan across diverse environments and embodiments.
               </md-block>
-                  
+
+
+              <p class="latest-update">
+                I will be interning at Bosch this summer in Sunnyvale.
+              </p>
+
+              <br>
               <p style="text-align:left; display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
-                <span>
-                <a href="data/Zanming_Huang_CV.pdf" aria-label="CV"><i class="fa-solid fa-file-pdf" style="color: #000; font-size: 15px;"></i></a> &nbsp;/&nbsp;
-                <a href="https://scholar.google.com/citations?user=mndHiQUAAAAJ&hl"><i class="fa-solid fa-graduation-cap" style="color: #000;"></i></a> &nbsp;/&nbsp;
-                <a href="https://www.linkedin.com/in/tzmhuang/"><i class="fa-brands fa-linkedin" style="color: #000;"></i></a> &nbsp;/&nbsp;
-                <a href="https://github.com/tzmhuang/"><i class="fa-brands fa-github" style="color: #000;"></i></a> &nbsp;/&nbsp;
-                <a href="https://twitter.com/tzmhuang/"><i class="fa-brands fa-twitter" style="color: #000;">‌</i></a>
+                <span style="font-size: 14px;">
+                <a href="data/Zanming_Huang_CV.pdf" class="nav-link">CV</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+                <a href="https://scholar.google.com/citations?user=mndHiQUAAAAJ&hl" class="nav-link">Scholar</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+                <a href="https://www.linkedin.com/in/tzmhuang/" class="nav-link">LinkedIn</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+                <a href="https://github.com/tzmhuang/" class="nav-link">GitHub</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+                <a href="https://twitter.com/tzmhuang/" class="nav-link">Twitter</a>
                 </span>
               </p>
+            </td>
+
+            <td style="padding:1%;width:30%;max-width:30%">
+              <a href="images/zm.jpg"><img class="tilt" style="width:100%;max-width:100%;border-radius:8px;" alt="profile photo" src="images/zm.jpg"></a>
             </td>
             </tr>
           </tbody>
         </table>
-            
 
-          <!-- News -->
-        <table id="news" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-          <tbody>
-          <tr>
-            <td style="text-align: left; background-color: #ffffff; padding-bottom: 5px;">
-              <heading style="font-size: 22px; color: #000">News</heading>
-            </td>
-          </tr>
-          </tbody>
-        </table>
-        <table width="100%" align="center" border="0" cellpadding="20">
-          <tbody>
-          <tr>
-            <div class="scroll">
-            <ul class="timeline">
-              <li><b>Feb. 2026:</b><br> I will be interning at <a href="https://www.bosch.us/">Bosch</a> this summer. See you in San Jose!
-              <li><b>Sep. 2025:</b><br><a href="https://osu-nlp-group.github.io/Mind2Web-2/">Mind2Web 2</a> has been accepted to NeurIPS 2025.
-              <li><b>Aug. 2024:</b><br> Started my PhD at The Ohio State University!
-              <li><b>...</b><br> 
-            </ul>
-            </div>
-          </tr>
-          </tbody>
-        </table>
-
-        <br>
-
+        <hr style="border: none; border-top: 1px solid #e0e0e0; margin: var(--section-gap) var(--content-gap);">
 
         <!-- Research -->
-        <table id="research" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+        <table id="research" width="100%" align="center" border="0" cellspacing="0">
           <tbody>
           <tr>
-            <td style="text-align: left; background-color: #ffffff">
-              <heading style="font-size: 22px; color: #000">Publications</heading> <br><br>
-              <span style="font-size: 14px;">See the full publication list here: <a href="https://scholar.google.com/citations?user=mndHiQUAAAAJ&hl">google scholar</a></span>
+            <td style="text-align: left; background-color: #ffffff; padding: var(--content-gap) var(--content-gap) var(--heading-gap) var(--content-gap);">
+              <heading style="font-size: 22px; color: #000">Research</heading>
             </td>
           </tr>
           </tbody>
         </table>
 
         <!-- 	Leveraging Sparse LiDAR for RAFT-Stereo: A Depth Pre-Fill Perspective -->
-        <div class="publication" style="margin-bottom: 0px; padding: 10px 20px;">
+        <div class="publication" style="margin-bottom: 0px; padding: 10px 20px; background-color: #ffffff;">
           <div class="papertitle">
             	Leveraging Sparse LiDAR for RAFT-Stereo: A Depth Pre-Fill Perspective
           </div>
@@ -156,12 +100,16 @@
             Jinsu Yoo, Sooyoung Jeon, <strong class="author-highlight">Zanming Huang</strong>, Tai-Yu Pan, Wei-Lun Chao
           </div>
           <div class="paperinfo">
-            <span class="venue">arXiv 2025</span> <a href="https://jinsuyoo.info/graft-stereo/">Link</a>  <br>
+            <span class="venue">arXiv 2025</span><br>
+          </div>
+          <div class="paper-links">
+            <a href="https://arxiv.org/abs/2507.19738">arXiv</a>
+            <a href="https://jinsuyoo.info/graft-stereo/">Project page</a>  
           </div>
         </div>
 
         <!-- Mind2Web 2 -->
-        <div class="publication" style="margin-bottom: 0px; padding: 10px 20px;">
+        <div class="publication" style="margin-bottom: 0px; padding: 10px 20px; background-color: #ffffff;">
           <div class="papertitle">
             Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge
           </div>
@@ -169,12 +117,16 @@
             Boyu Gou*, <strong class="author-highlight">Zanming Huang</strong>*, Yuting Ning*, Yu Gu, Michael Lin, Weijian Qi, Andrei Kopanev, Botao Yu, Bernal Jiménez Gutiérrez, Yiheng Shu, Chan Hee Song, Jiaman Wu, Shijie Chen, Hanane Nour Moussa, Tianshu Zhang, Jian Xie, Yifei Li, Tianci Xue, Zeyi Liao, Kai Zhang, Boyuan Zheng, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su
           </div>
           <div class="paperinfo">
-            <span class="venue">NeurIPS 2025</span> <a href="https://osu-nlp-group.github.io/Mind2Web-2/">Link</a>  <br>
+            <span class="venue">NeurIPS 2025</span><br>
+          </div>
+          <div class="paper-links">
+            <a href="https://arxiv.org/abs/2506.21506">arXiv</a>
+            <a href="https://osu-nlp-group.github.io/Mind2Web-2/">Project page</a>
           </div>
         </div>
 
         <!-- Neural Volumetric World Models for Autonomous Driving -->
-        <div class="publication" style="margin-bottom: 0px; padding: 10px 20px;">
+        <div class="publication" style="margin-bottom: 0px; padding: 10px 20px; background-color: #ffffff;">
           <div class="papertitle">
             Neural Volumetric World Models for Autonomous Driving
           </div>
@@ -182,12 +134,15 @@
             Jimuyang Zhang*, <strong class="author-highlight">Zanming Huang</strong>*, Eshed Ohn-Bar
           </div>
           <div class="paperinfo">
-            <span class="venue">ECCV 2024 </span><a href="https://eccv.ecva.net/virtual/2024/poster/250">Link</a>  <br>
+            <span class="venue">ECCV 2024 </span><br>
+          </div>
+          <div class="paper-links">
+            <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02571.pdf">Paper</a>
           </div>
         </div>
 
         <!-- Feedback-guided autonomous driving -->
-        <div class="publication" style="margin-bottom: 0px; padding: 10px 20px;">
+        <div class="publication" style="margin-bottom: 0px; padding: 10px 20px; background-color: #ffffff;">
           <div class="papertitle">
             Feedback-guided autonomous driving
           </div>
@@ -195,12 +150,16 @@
             Jimuyang Zhang, <strong class="author-highlight">Zanming Huang</strong>, Arijit Ray, Eshed Ohn-Bar
           </div>
           <div class="paperinfo">
-            <span class="venue">CVPR 2024 <strong style="color: #e05c61;">Highlight (2.8%)</strong> </span><a href="https://fedaltothemetal.github.io/">Link</a>  <br>
+            <span class="venue">CVPR 2024 <strong style="color: #e05c61; margin-left: 8px;">(Highlight)</strong> </span><br>
+          </div>
+          <div class="paper-links">
+            <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Feedback-Guided_Autonomous_Driving_CVPR_2024_paper.pdf">Paper</a>
+            <a href="https://fedaltothemetal.github.io/">Project page</a>
           </div>
         </div>
 
         <!-- Coaching a Teachable Student -->
-        <div class="publication" style="margin-bottom: 0px; padding: 10px 20px;">
+        <div class="publication" style="margin-bottom: 0px; padding: 10px 20px; background-color: #ffffff;">
           <div class="papertitle">
             Coaching a Teachable Student
           </div>
@@ -208,12 +167,16 @@
             Jimuyang Zhang, <strong class="author-highlight">Zanming Huang</strong>, Eshed Ohn-Bar
           </div>
           <div class="paperinfo">
-            <span class="venue">CVPR 2023 <strong style="color: #e05c61;">Highlight (2.5%)</strong> </span><a href="https://catdrive.github.io/">Link</a>  <br>
+            <span class="venue">CVPR 2023 <strong style="color: #e05c61; margin-left: 8px;">(Highlight)</strong> </span><br>
+          </div>
+          <div class="paper-links">
+            <a href="https://arxiv.org/abs/2306.10014">arXiv</a>
+            <a href="https://catdrive.github.io/">Project page</a>
           </div>
         </div>
 
         <!-- ASSISTER: Assistive Navigation via Conditional Instruction Generation -->
-        <div class="publication" style="margin-bottom: 0px; padding: 10px 20px;">
+        <div class="publication" style="margin-bottom: 0px; padding: 10px 20px; background-color: #ffffff;">
           <div class="papertitle">
             ASSISTER: Assistive Navigation via Conditional Instruction Generation
           </div>
@@ -221,7 +184,11 @@
             <strong class="author-highlight">Zanming Huang</strong>*, Zhongkai Shangguan*, Jimuyang Zhang, Gilad Bar, Matthew Boyd, Eshed Ohn-Bar
           </div>
           <div class="paperinfo">
-            <span class="venue">ECCV 2022 </span><a href="https://github.com/h2xlab/ASSISTER">Link</a>  <br>
+            <span class="venue">ECCV 2022 </span><br>
+          </div>
+          <div class="paper-links">
+            <a href="https://eshed1.github.io/papers/assister_eccv2022.pdf">Paper</a>
+            <a href="https://github.com/h2xlab/ASSISTER">Project page</a>
           </div>
         </div>
 
@@ -232,13 +199,6 @@
           <tr>
             <td style="padding:0px">
               <br>
-              <p style="text-align:right;font-size:small;">
-                Template inspired from <a class="footnote" href="https://jonbarron.info/">Jon Barron</a>. 
-                <!-- This page has been visited
-                <a href="http://stuff.mit.edu/doc/counter-howto.html"><img 
-                src="http://stuff.mit.edu/cgi/counter/jinsuyoo" alt="several" height="16"></a>
-                times since March 10, 2023! &#129346; -->
-              </p>
             </td>
           </tr>
         </tbody></table>
@@ -261,28 +221,7 @@
 
 
 
-    <!-- typed.js link -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.8.0/vanilla-tilt.min.js"></script>
-
-      
-    <script>
-        const nav = document.querySelector('#main');
-        let topOfNav = nav ? nav.offsetTop : 0;
-      
-        function fixNav() {
-          if (!nav) return;
-          if (window.scrollY >= topOfNav) {
-            document.body.style.paddingTop = nav.offsetHeight + 'px';
-            document.body.classList.add('fixed-nav');
-          } else {
-            document.body.classList.remove('fixed-nav');
-            document.body.style.paddingTop = 0;
-          }
-        }
-      
-        window.addEventListener('scroll', fixNav);
-    </script>
       
   </body>
 </html>
