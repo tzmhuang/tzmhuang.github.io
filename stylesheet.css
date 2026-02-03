@@ -27,15 +27,33 @@ body {
   line-height: 1.45;
   background-color: #ffffff;
   -webkit-text-size-adjust: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
 }
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 h2 {
   margin: 0;
   font-size: 22px;
+}
+
+.section-heading-container {
+  text-align: left;
+  background-color: #ffffff;
+  padding: var(--content-gap) var(--content-gap) var(--heading-gap) var(--content-gap);
+}
+
+.section-heading {
+  color: #000;
 }
 
 .papertitle {
@@ -137,6 +155,15 @@ h2 {
 
 /* Responsive layout - stacks when viewport is narrow */
 @media screen and (max-width: 580px) {
+  body {
+    padding: 0 10px;
+  }
+
+  table {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
   .bio-section tbody,
   .bio-section tr {
     display: flex;
