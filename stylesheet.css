@@ -58,6 +58,8 @@ h2 {
   font-size: 28px;
   font-weight: 400;
   font-family: 'Petrona', Georgia, serif;
+  border-bottom: 1px solid #E6E6E6;
+  padding-bottom: 0px;
 }
 
 .papertitle {
@@ -165,6 +167,8 @@ h2 {
   font-size: 34px;
   font-weight: medium;
   font-family: 'Petrona', Georgia, serif;
+  border-bottom: 1px solid #E6E6E6;
+  padding-bottom: 0px;
 }
 
 /* Bio section table cell styling */
