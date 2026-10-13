@@ -66,6 +66,8 @@
                       <a href="https://github.com/tzmhuang/" class="nav-link" rel="noopener noreferrer">GitHub</a>
                       &nbsp;&nbsp;&middot;&nbsp;&nbsp;
                       <a href="https://twitter.com/tzmhuang/" class="nav-link" rel="noopener noreferrer">Twitter</a>
+                      &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+                      <a href="#" id="email-link" class="nav-link" aria-label="Send me an email">Email</a>
                     </span>
                   </p>
                 </td>
@@ -256,6 +258,16 @@
 
   <!-- bottom spacing -->
   <div style="height: 60px;"></div>
+
+  <script>
+    document.getElementById('email-link').addEventListener('click', function (event) {
+      event.preventDefault();
+      const address = [104, 117, 97, 110, 103, 116, 111, 109, 64, 98, 117, 46, 101, 100, 117]
+        .map(characterCode => String.fromCharCode(characterCode))
+        .join('');
+      window.location.href = 'mailto:' + address;
+    });
+  </script>
 
 </body>
 
